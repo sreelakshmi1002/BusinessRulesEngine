@@ -19,3 +19,6 @@ C:\Maersk\BusinessRulesEngine\BusinessRulesEngine\obj\Debug\netcoreapp3.1\Busine
 C:\Maersk\BusinessRulesEngine\BusinessRulesEngine\obj\Debug\netcoreapp3.1\BusinessRulesEngine.UI.AssemblyInfo.cs
 C:\Maersk\BusinessRulesEngine\BusinessRulesEngine\obj\Debug\netcoreapp3.1\BusinessRulesEngine.UI.dll
 C:\Maersk\BusinessRulesEngine\BusinessRulesEngine\obj\Debug\netcoreapp3.1\BusinessRulesEngine.UI.pdb
+C:\Maersk\BusinessRulesEngine\BusinessRulesEngine\bin\Debug\netcoreapp3.1\BusinessRuleEngine.dll
+C:\Maersk\BusinessRulesEngine\BusinessRulesEngine\bin\Debug\netcoreapp3.1\BusinessRuleEngine.pdb
+C:\Maersk\BusinessRulesEngine\BusinessRulesEngine\obj\Debug\netcoreapp3.1\BusinessRulesEngine.UI.csproj.CopyComplete

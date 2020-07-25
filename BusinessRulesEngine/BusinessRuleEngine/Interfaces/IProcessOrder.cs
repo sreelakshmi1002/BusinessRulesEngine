@@ -5,7 +5,7 @@ using System.Text;
 
 namespace BusinessRuleEngine.Interfaces
 {
-    interface IProcessOrder
+    public interface IProcessOrder
     {
         PaymentResult ProcessPayment(ProductInfo model);
     }

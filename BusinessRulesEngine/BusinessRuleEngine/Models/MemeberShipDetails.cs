@@ -9,6 +9,6 @@ namespace BusinessRuleEngine.Models
         public string MemberName { get; set; }
         public DateTime StartDate { get; set; }
         public DateTime EndDate { get; set; }
-        public MemberShipType SubscriptionType { get; set; }
+        public MemberShipType MemberShipType { get; set; }
     }
 }

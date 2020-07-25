@@ -15,12 +15,12 @@ namespace BusinessRuleEngine.Services
                 return new PaymentResult
                 {
                     IsSuccess = true,
-                    Message = "Packing slip created for physical product",
+                    Message = "Packing slip for shipping generated for physical product",
                 };
             }
             else
             {
-                throw new InvalidOperationException("Product Name is missing");
+                throw new InvalidOperationException("Physical Product Name is missing");
             }
         }
     }

@@ -15,7 +15,7 @@ namespace BusinessRuleEngine.Services
             // If Payment is done then activate the membership and sent a email to owner.
             if (!string.IsNullOrEmpty(model.MemberName))
             {
-                switch (model.SubscriptionType)
+                switch (model.MemberShipType)
                 {
                     case MemberShipType.ACTIVATION:
                         result = CreateNewActivation(model);

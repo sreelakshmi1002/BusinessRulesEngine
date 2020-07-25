@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "BusinessRuleEngine/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/BusinessRuleEngine.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BusinessRuleEngine.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "BusinessRuleEngine/1.0.0": {
+      "type": "project",
+      "path": "../BusinessRuleEngine/BusinessRuleEngine.csproj",
+      "msbuildProject": "../BusinessRuleEngine/BusinessRuleEngine.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "BusinessRuleEngine >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\sn01\\.nuget\\packages\\": {},
@@ -38,7 +57,11 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Maersk\\BusinessRulesEngine\\BusinessRuleEngine\\BusinessRuleEngine.csproj": {
+              "projectPath": "C:\\Maersk\\BusinessRulesEngine\\BusinessRuleEngine\\BusinessRuleEngine.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

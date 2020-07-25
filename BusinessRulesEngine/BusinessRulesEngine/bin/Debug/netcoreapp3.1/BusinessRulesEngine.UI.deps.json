@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v3.1": {
       "BusinessRulesEngine.UI/1.0.0": {
+        "dependencies": {
+          "BusinessRuleEngine": "1.0.0"
+        },
         "runtime": {
           "BusinessRulesEngine.UI.dll": {}
+        }
+      },
+      "BusinessRuleEngine/1.0.0": {
+        "runtime": {
+          "BusinessRuleEngine.dll": {}
         }
       }
     }
   },
   "libraries": {
     "BusinessRulesEngine.UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BusinessRuleEngine/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
