@@ -6,6 +6,8 @@ namespace BusinessRuleEngine.Models
 {
     public class ProductInfo : Product
     {
+        public double RoyaltyDepartmentPrice { get; set; }
+
         public DateTime PackagingDate { get; set; }
         public PaymentType PaymentOptions { get; set; }
         public double Commission { get; set; }
