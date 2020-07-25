@@ -13,7 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Services\" />
+    <ProjectReference Include="..\BusinessRuleEngine\BusinessRuleEngine.csproj" />
   </ItemGroup>
 
 </Project>

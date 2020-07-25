@@ -186,3 +186,5 @@ C:\Maersk\BusinessRulesEngine\BusinessRuleEngine.Tests\obj\Debug\netcoreapp3.1\B
 C:\Maersk\BusinessRulesEngine\BusinessRuleEngine.Tests\obj\Debug\netcoreapp3.1\BusinessRuleEngine.Tests.csproj.CopyComplete
 C:\Maersk\BusinessRulesEngine\BusinessRuleEngine.Tests\obj\Debug\netcoreapp3.1\BusinessRuleEngine.Tests.dll
 C:\Maersk\BusinessRulesEngine\BusinessRuleEngine.Tests\obj\Debug\netcoreapp3.1\BusinessRuleEngine.Tests.pdb
+C:\Maersk\BusinessRulesEngine\BusinessRuleEngine.Tests\bin\Debug\netcoreapp3.1\BusinessRuleEngine.dll
+C:\Maersk\BusinessRulesEngine\BusinessRuleEngine.Tests\bin\Debug\netcoreapp3.1\BusinessRuleEngine.pdb
