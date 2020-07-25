@@ -17,7 +17,7 @@ namespace BusinessRuleEngine.Services
                 return new PaymentResult
                 {
                     IsSuccess = true,
-                    Message = "Royalty payment slip created with Amount - " + model.RoyaltyDepartmentPrice,
+                    Message = "Royalty payment slip created with Amount -" + model.RoyaltyDepartmentPrice,
                 };
             }
             else
