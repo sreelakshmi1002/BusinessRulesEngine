@@ -1,11 +1,12 @@
-﻿using BusinessRuleEngine.Models;
+﻿using BusinessRuleEngine.Interfaces;
+using BusinessRuleEngine.Models;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
 namespace BusinessRuleEngine.Services
 {
-    public class VideoPayment
+    public class VideoPayment : IProcessOrder
     {
         public PaymentResult ProcessPayment(ProductInfo model)
         {

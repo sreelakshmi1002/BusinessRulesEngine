@@ -1,13 +1,14 @@
-﻿using BusinessRuleEngine.Models;
+﻿using BusinessRuleEngine.Interfaces;
+using BusinessRuleEngine.Models;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
 namespace BusinessRuleEngine.Services
 {
-    public class PhysicalProductPayment
+    public class PhysicalProductPayment : IProcessOrder
     {
-        public PaymentResult ProcessOrder(ProductInfo model)
+        public PaymentResult ProcessPayment(ProductInfo model)
         {
             if (!string.IsNullOrEmpty(model.Name))
             {
