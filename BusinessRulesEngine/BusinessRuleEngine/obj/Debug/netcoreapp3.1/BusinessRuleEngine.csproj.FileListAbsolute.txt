@@ -8,3 +8,11 @@ C:\BusinessRulesEngine\BusinessRulesEngine\BusinessRuleEngine\obj\Debug\netcorea
 C:\BusinessRulesEngine\BusinessRulesEngine\BusinessRuleEngine\obj\Debug\netcoreapp3.1\BusinessRuleEngine.AssemblyInfo.cs
 C:\BusinessRulesEngine\BusinessRulesEngine\BusinessRuleEngine\obj\Debug\netcoreapp3.1\BusinessRuleEngine.dll
 C:\BusinessRulesEngine\BusinessRulesEngine\BusinessRuleEngine\obj\Debug\netcoreapp3.1\BusinessRuleEngine.pdb
+C:\Maersk\BusinessRulesEngine\BusinessRuleEngine\bin\Debug\netcoreapp3.1\BusinessRuleEngine.deps.json
+C:\Maersk\BusinessRulesEngine\BusinessRuleEngine\bin\Debug\netcoreapp3.1\BusinessRuleEngine.dll
+C:\Maersk\BusinessRulesEngine\BusinessRuleEngine\bin\Debug\netcoreapp3.1\BusinessRuleEngine.pdb
+C:\Maersk\BusinessRulesEngine\BusinessRuleEngine\obj\Debug\netcoreapp3.1\BusinessRuleEngine.csprojAssemblyReference.cache
+C:\Maersk\BusinessRulesEngine\BusinessRuleEngine\obj\Debug\netcoreapp3.1\BusinessRuleEngine.AssemblyInfoInputs.cache
+C:\Maersk\BusinessRulesEngine\BusinessRuleEngine\obj\Debug\netcoreapp3.1\BusinessRuleEngine.AssemblyInfo.cs
+C:\Maersk\BusinessRulesEngine\BusinessRuleEngine\obj\Debug\netcoreapp3.1\BusinessRuleEngine.dll
+C:\Maersk\BusinessRulesEngine\BusinessRuleEngine\obj\Debug\netcoreapp3.1\BusinessRuleEngine.pdb

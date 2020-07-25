@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\BusinessRulesEngine\\BusinessRulesEngine\\BusinessRuleEngine\\BusinessRuleEngine.csproj": {}
+    "C:\\Maersk\\BusinessRulesEngine\\BusinessRuleEngine\\BusinessRuleEngine.csproj": {}
   },
   "projects": {
-    "C:\\BusinessRulesEngine\\BusinessRulesEngine\\BusinessRuleEngine\\BusinessRuleEngine.csproj": {
+    "C:\\Maersk\\BusinessRulesEngine\\BusinessRuleEngine\\BusinessRuleEngine.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\BusinessRulesEngine\\BusinessRulesEngine\\BusinessRuleEngine\\BusinessRuleEngine.csproj",
+        "projectUniqueName": "C:\\Maersk\\BusinessRulesEngine\\BusinessRuleEngine\\BusinessRuleEngine.csproj",
         "projectName": "BusinessRuleEngine",
-        "projectPath": "C:\\BusinessRulesEngine\\BusinessRulesEngine\\BusinessRuleEngine\\BusinessRuleEngine.csproj",
+        "projectPath": "C:\\Maersk\\BusinessRulesEngine\\BusinessRuleEngine\\BusinessRuleEngine.csproj",
         "packagesPath": "C:\\Users\\sn01\\.nuget\\packages\\",
-        "outputPath": "C:\\BusinessRulesEngine\\BusinessRulesEngine\\BusinessRuleEngine\\obj\\",
+        "outputPath": "C:\\Maersk\\BusinessRulesEngine\\BusinessRuleEngine\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

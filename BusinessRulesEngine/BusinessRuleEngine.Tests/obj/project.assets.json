@@ -4584,11 +4584,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\BusinessRulesEngine\\BusinessRulesEngine\\BusinessRuleEngine.Tests\\BusinessRuleEngine.Tests.csproj",
+      "projectUniqueName": "C:\\Maersk\\BusinessRulesEngine\\BusinessRuleEngine.Tests\\BusinessRuleEngine.Tests.csproj",
       "projectName": "BusinessRuleEngine.Tests",
-      "projectPath": "C:\\BusinessRulesEngine\\BusinessRulesEngine\\BusinessRuleEngine.Tests\\BusinessRuleEngine.Tests.csproj",
+      "projectPath": "C:\\Maersk\\BusinessRulesEngine\\BusinessRuleEngine.Tests\\BusinessRuleEngine.Tests.csproj",
       "packagesPath": "C:\\Users\\sn01\\.nuget\\packages\\",
-      "outputPath": "C:\\BusinessRulesEngine\\BusinessRulesEngine\\BusinessRuleEngine.Tests\\obj\\",
+      "outputPath": "C:\\Maersk\\BusinessRulesEngine\\BusinessRuleEngine.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
