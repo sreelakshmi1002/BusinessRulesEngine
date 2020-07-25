@@ -1,0 +1,10 @@
+C:\BusinessRulesEngine\BusinessRulesEngine\BusinessRuleEngine\bin\Debug\netcoreapp3.1\BusinessRuleEngine.exe
+C:\BusinessRulesEngine\BusinessRulesEngine\BusinessRuleEngine\bin\Debug\netcoreapp3.1\BusinessRuleEngine.deps.json
+C:\BusinessRulesEngine\BusinessRulesEngine\BusinessRuleEngine\bin\Debug\netcoreapp3.1\BusinessRuleEngine.runtimeconfig.json
+C:\BusinessRulesEngine\BusinessRulesEngine\BusinessRuleEngine\bin\Debug\netcoreapp3.1\BusinessRuleEngine.runtimeconfig.dev.json
+C:\BusinessRulesEngine\BusinessRulesEngine\BusinessRuleEngine\bin\Debug\netcoreapp3.1\BusinessRuleEngine.dll
+C:\BusinessRulesEngine\BusinessRulesEngine\BusinessRuleEngine\bin\Debug\netcoreapp3.1\BusinessRuleEngine.pdb
+C:\BusinessRulesEngine\BusinessRulesEngine\BusinessRuleEngine\obj\Debug\netcoreapp3.1\BusinessRuleEngine.AssemblyInfoInputs.cache
+C:\BusinessRulesEngine\BusinessRulesEngine\BusinessRuleEngine\obj\Debug\netcoreapp3.1\BusinessRuleEngine.AssemblyInfo.cs
+C:\BusinessRulesEngine\BusinessRulesEngine\BusinessRuleEngine\obj\Debug\netcoreapp3.1\BusinessRuleEngine.dll
+C:\BusinessRulesEngine\BusinessRulesEngine\BusinessRuleEngine\obj\Debug\netcoreapp3.1\BusinessRuleEngine.pdb
