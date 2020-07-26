@@ -7,6 +7,6 @@ namespace BusinessRuleEngine.Interfaces
 {
     public interface IProcessOrder
     {
-        PaymentResult ProcessPayment(ProductInfo model);
+        PaymentResult ProcessPayment<T>(T model);
     }
 }

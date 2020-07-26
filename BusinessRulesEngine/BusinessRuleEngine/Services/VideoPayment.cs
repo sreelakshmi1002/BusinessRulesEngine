@@ -1,4 +1,5 @@
-﻿using BusinessRuleEngine.Interfaces;
+﻿using BusinessRuleEngine.Common;
+using BusinessRuleEngine.Interfaces;
 using BusinessRuleEngine.Models;
 using System;
 using System.Collections.Generic;
@@ -6,9 +7,9 @@ using System.Text;
 
 namespace BusinessRuleEngine.Services
 {
-    public class VideoPayment : IProcessOrder
+    public class VideoPayment : ProcessOrderFactory<ProductInfo>
     {
-        public PaymentResult ProcessPayment(ProductInfo model)
+        protected override PaymentResult ProcessPayment(ProductInfo model)
         {
             if (!string.IsNullOrEmpty(model.Description))
             {

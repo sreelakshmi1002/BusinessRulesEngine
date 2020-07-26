@@ -42,7 +42,7 @@ namespace BusinessRulesEngine
             {
                 paymentType = (PaymentType)Enum.Parse(typeof(PaymentType), "3".ToString());
                 memberShipType = options == 3 ? 1 : 2;
-                var result = ProcessOrders.CreateMemberShipObject();
+                var result = ProcessOrders.GetPaymentMethod(paymentType);
                 var sampleInput = SampleInput.GetSampleDataMember(memberShipType);
 
                 if (result != null)

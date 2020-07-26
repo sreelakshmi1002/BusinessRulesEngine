@@ -1,4 +1,5 @@
-﻿using BusinessRuleEngine.Interfaces;
+﻿using BusinessRuleEngine.Common;
+using BusinessRuleEngine.Interfaces;
 using BusinessRuleEngine.Models;
 using System;
 using System.Collections.Generic;
@@ -6,9 +7,9 @@ using System.Text;
 
 namespace BusinessRuleEngine.Services
 {
-    public class MemberShipPayment : IMemberShipPayment
+    public class MemberShipPayment : ProcessOrderFactory<MemeberShipDetails>
     {
-        public PaymentResult ProcessPayment(MemeberShipDetails model)
+        protected override PaymentResult ProcessPayment(MemeberShipDetails model)
         {
             PaymentResult result = null;
 

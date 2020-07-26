@@ -7,6 +7,7 @@ using System.Text;
 
 namespace BusinessRuleEngine.Common
 {
+    //Factory Pattern
     public class ProcessOrders
     {
         public static IProcessOrder GetPaymentMethod(PaymentType type)
@@ -26,19 +27,13 @@ namespace BusinessRuleEngine.Common
                 case PaymentType.VIDEO:
                     _processOrder = new VideoPayment();
                     break;
+                case PaymentType.MEMBERSHIP:
+                    _processOrder = new MemberShipPayment();
+                    break;
                 default:
                     break;
             }
             return _processOrder;
         }
-
-        public static IMemberShipPayment CreateMemberShipObject()
-        {
-            IMemberShipPayment _memberShipPayment = null;
-            _memberShipPayment = new MemberShipPayment();
-
-            return _memberShipPayment;
-        }
-
     }
 }
